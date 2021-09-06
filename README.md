@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranav13300
+- 👋 Hi, I’m Pranav!
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Applied Math.
 - 🌱 I’m currently learning reinforcement learning.
 
